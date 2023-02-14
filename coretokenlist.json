@@ -1,0 +1,17 @@
+{
+  "name": "Xeon Token",
+  "logoURI": "https://raw.githubusercontent.com/eric0x01/files-hub/main/Core_logo.svg",
+  "keywords": ["xeon],
+  "timestamp": "2022-07-19T08:00:00.000Z",
+  "tokens": [
+    {
+      "chainId": 1115,
+      "address": "0x16750567335dca03c84479c3092a8e097bcb7388",
+      "name": "Xeon",
+      "symbol": "XEON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png?1598003707"
+    }
+  ],
+  "version": { "major": 1, "minor": 1, "patch": 10 }
+}
